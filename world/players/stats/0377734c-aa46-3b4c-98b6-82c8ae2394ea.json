@@ -1,0 +1,20 @@
+{
+  "stats": {
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 911,
+      "minecraft:walk_one_cm": 3553,
+      "minecraft:damage_taken": 120,
+      "minecraft:play_time": 911,
+      "minecraft:damage_dealt": 164,
+      "minecraft:jump": 31,
+      "minecraft:time_since_death": 911,
+      "minecraft:sprint_one_cm": 1312,
+      "minecraft:interact_with_smithing_table": 1,
+      "minecraft:fall_one_cm": 242,
+      "minecraft:total_world_time": 911,
+      "minecraft:fly_one_cm": 2906,
+      "minecraft:interact_with_grindstone": 1
+    }
+  },
+  "DataVersion": 4790
+}
