@@ -245,3 +245,42 @@
 [06:20:08] [Server thread/INFO]: Book cannot support that enchantment
 [06:21:13] [Server thread/INFO]: Malformed 'minecraft:stored_enchantments' component: 'Not a number; Failed to get element minecraft:levels missed input: {levels:{mending:1}}'
 ...hantments={levels:{mending:1}}] 1<--[HERE]
+[06:21:29] [Server thread/INFO]: Gave 1 [Enchanted Book] to tanpoint
+[06:21:56] [Server thread/INFO]: EagleShadow issued server command: /get kapak
+[06:25:43] [Server thread/INFO]: EagleShadow has made the advancement [Sneak 100]
+[06:26:48] [Server thread/INFO]: EagleShadow issued server command: /get bow
+[06:27:49] [Server thread/INFO]: EagleShadow issued server command: /home base
+[06:28:09] [Server thread/INFO]: EagleShadow issued server command: /sethome base
+[06:29:56] [Server thread/INFO]: EagleShadow has made the advancement [We Need to Go Deeper]
+[06:30:15] [Attach Listener/WARN]: java.lang.reflect.InvocationTargetException
+[06:30:15] [Attach Listener/WARN]: 	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:119)
+[06:30:15] [Attach Listener/WARN]: 	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+[06:30:15] [Attach Listener/WARN]: 	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:544)
+[06:30:15] [Attach Listener/WARN]: 	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallAgentmain(InstrumentationImpl.java:566)
+[06:30:15] [Attach Listener/WARN]: Caused by: java.lang.ClassNotFoundException: org.bukkit.Bukkit
+[06:30:15] [Attach Listener/WARN]: 	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:580)
+[06:30:15] [Attach Listener/WARN]: 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:490)
+[06:30:15] [Attach Listener/WARN]: 	at java.base/java.lang.Class.forName0(Native Method)
+[06:30:15] [Attach Listener/WARN]: 	at java.base/java.lang.Class.forName(Class.java:467)
+[06:30:15] [Attach Listener/WARN]: 	at java.base/java.lang.Class.forName(Class.java:458)
+[06:30:15] [Attach Listener/WARN]: 	at TrustClaimsAgent.agentmain(TrustClaimsAgent.java:13)
+[06:30:15] [Attach Listener/WARN]: 	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+[06:30:15] [Attach Listener/WARN]: 	... 3 more
+[06:30:39] [Attach Listener/WARN]: java.lang.reflect.InvocationTargetException
+[06:30:39] [Attach Listener/WARN]: 	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:119)
+[06:30:39] [Attach Listener/WARN]: 	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+[06:30:39] [Attach Listener/WARN]: 	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:544)
+[06:30:39] [Attach Listener/WARN]: 	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallAgentmain(InstrumentationImpl.java:566)
+[06:30:39] [Attach Listener/WARN]: Caused by: java.lang.ClassNotFoundException: org.bukkit.Bukkit
+[06:30:39] [Attach Listener/WARN]: 	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:580)
+[06:30:39] [Attach Listener/WARN]: 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:490)
+[06:30:39] [Attach Listener/WARN]: 	at java.base/java.lang.Class.forName0(Native Method)
+[06:30:39] [Attach Listener/WARN]: 	at java.base/java.lang.Class.forName(Class.java:467)
+[06:30:39] [Attach Listener/WARN]: 	at java.base/java.lang.Class.forName(Class.java:458)
+[06:30:39] [Attach Listener/WARN]: 	at TrustClaimsAgent.agentmain(TrustClaimsAgent.java:13)
+[06:30:39] [Attach Listener/WARN]: 	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+[06:30:39] [Attach Listener/WARN]: 	... 3 more
+[06:30:47] [Server thread/INFO]: EagleShadow issued server command: /home
+[06:31:21] [Attach Listener/INFO]: [MejiClaimsV3] Trusted eagleshadow in 4 claims (4 changed).
+[06:31:57] [Server thread/INFO]: EagleShadow issued server command: /sethome base
+[06:32:03] [Server thread/INFO]: EagleShadow issued server command: /home base
