@@ -305,3 +305,24 @@
 [06:41:19] [Server thread/INFO]: Gave 1 [Elytra] to tanpoint
 [06:41:37] [Server thread/INFO]: EagleShadow has made the advancement [Stone Age]
 [06:42:13] [Server thread/INFO]: Applied enchantment Unbreaking III to tanpoint's item
+[06:43:23] [Server thread/INFO]: Gave 55 [Stone] to tanpoint
+[06:45:32] [Server thread/INFO]: tanpoint lost connection: Disconnected
+[06:45:32] [Server thread/INFO]: [-] tanpoint left Meji. Progress saved, pride optional.
+[06:45:42] [User Authenticator #5/INFO]: UUID of player tanpoint is 5700343a-c805-3fa7-add9-b279bffb48dd
+[06:45:46] [Server thread/INFO]: [+] tanpoint entered Meji with style. | Selamat datang, jangan jadi Steve.
+[06:45:46] [Server thread/INFO]: tanpoint[/127.203.202.236:34465] logged in with entity id 8108 at ([minecraft:overworld]-1.8291857941457164, 69.0, 6.2334689949497575)
+[06:46:18] [Server thread/INFO]: EagleShadow lost connection: Disconnected
+[06:46:18] [Server thread/INFO]: [-] EagleShadow left Meji. Progress saved, pride optional.
+[06:46:21] [Server thread/INFO]: tanpoint was kicked due to keepalive timeout!
+[06:46:21] [Server thread/INFO]: tanpoint lost connection: Disconnected
+[06:46:21] [Server thread/INFO]: [-] tanpoint left Meji. Progress saved, pride optional.
+[06:47:16] [User Authenticator #6/INFO]: UUID of player tanpoint is 5700343a-c805-3fa7-add9-b279bffb48dd
+[06:47:17] [Server thread/INFO]: [+] tanpoint entered Meji with style. | Selamat datang, jangan jadi Steve.
+[06:47:17] [Server thread/INFO]: tanpoint[/127.203.202.236:60827] logged in with entity id 8389 at ([minecraft:overworld]-1.8291857941457164, 69.0, 6.2334689949497575)
+[06:47:56] [Server thread/INFO]: tanpoint was kicked due to keepalive timeout!
+[06:47:56] [Server thread/INFO]: tanpoint lost connection: Timed out
+[06:47:56] [Server thread/INFO]: [-] tanpoint left Meji. Progress saved, pride optional.
+[06:50:09] [User Authenticator #7/INFO]: UUID of player EagleShadow is 0377734c-aa46-3b4c-98b6-82c8ae2394ea
+[06:50:09] [Server thread/INFO]: [+] EagleShadow entered Meji with style. | Selamat datang, jangan jadi Steve.
+[06:50:09] [Server thread/INFO]: EagleShadow[/127.103.212.23:47297] logged in with entity id 9054 at ([minecraft:overworld]109.90874660553081, 63.0, 270.77726096903297)
+[06:50:29] [Server thread/INFO]: EagleShadow issued server command: /home base
