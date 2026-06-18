@@ -340,3 +340,7 @@
 [07:22:28] [Server thread/INFO]: EagleShadow lost connection: Disconnected
 [07:22:28] [Server thread/INFO]: [-] EagleShadow left Meji. Progress saved, pride optional.
 [07:24:37] [Server thread/INFO]: Villager Villager['Weaponsmith'/9095, uuid='262558fd-43e9-406b-ab67-4213b87a0e0f', l='ServerLevel[world]', x=106.21, y=62.71, z=281.51, cpos=[6, 17], tl=41309, v=true] died, message: 'Weaponsmith was slain by Zombie'
+[07:29:34] [Server thread/INFO]: Villager Villager['Nitwit'/9053, uuid='facdc3d0-dd37-411a-ae8c-441e57cfa225', l='ServerLevel[world]', x=112.54, y=63.00, z=275.30, cpos=[7, 17], tl=47292, v=true] died, message: 'Nitwit was slain by Zombie'
+[07:29:36] [Server thread/INFO]: Villager Villager['Weaponsmith'/9050, uuid='99f2ea0e-7e23-4a16-ac75-5cf31a07beab', l='ServerLevel[world]', x=110.30, y=63.00, z=275.30, cpos=[6, 17], tl=47333, v=true] died, message: 'Weaponsmith was slain by Zombie'
+[07:29:40] [Server thread/INFO]: Villager Villager['Mason'/9051, uuid='e50db59d-127d-41c8-b9d8-ff5a271201cf', l='ServerLevel[world]', x=110.30, y=63.00, z=275.30, cpos=[6, 17], tl=47423, v=true] died, message: 'Mason was slain by Zombie Villager'
+[07:29:42] [Server thread/INFO]: Villager Villager['Fletcher'/9049, uuid='db783de4-c112-4239-b365-c1a5a94580c5', l='ServerLevel[world]', x=110.30, y=63.00, z=275.30, cpos=[6, 17], tl=47466, v=true] died, message: 'Fletcher was slain by Zombie'
