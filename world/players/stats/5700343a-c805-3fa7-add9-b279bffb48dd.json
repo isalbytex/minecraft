@@ -529,7 +529,7 @@
       "minecraft:spruce_slab": 1
     },
     "minecraft:custom": {
-      "minecraft:time_since_rest": 819,
+      "minecraft:time_since_rest": 1267,
       "minecraft:talked_to_villager": 16,
       "minecraft:leave_game": 57,
       "minecraft:damage_taken": 114796,
@@ -544,7 +544,7 @@
       "minecraft:interact_with_smithing_table": 42,
       "minecraft:sleep_in_bed": 56,
       "minecraft:swim_one_cm": 153208,
-      "minecraft:total_world_time": 1675979,
+      "minecraft:total_world_time": 1676427,
       "minecraft:crouch_one_cm": 245353,
       "minecraft:climb_one_cm": 21095,
       "minecraft:deaths": 236,
@@ -556,7 +556,7 @@
       "minecraft:walk_one_cm": 3575514,
       "minecraft:walk_under_water_one_cm": 18719,
       "minecraft:damage_dealt": 174861,
-      "minecraft:play_time": 1675979,
+      "minecraft:play_time": 1676427,
       "minecraft:jump": 23720,
       "minecraft:drop": 373,
       "minecraft:open_barrel": 19,
