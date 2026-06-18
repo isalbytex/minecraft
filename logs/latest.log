@@ -1,350 +1,205 @@
-[06:07:41] [ServerMain/INFO]: [bootstrap] Running Java 25 (OpenJDK 64-Bit Server VM 25.0.2+10-LTS; Microsoft Microsoft-13053558) on Linux 6.8.0-1052-azure (amd64)
-[06:07:41] [ServerMain/INFO]: [bootstrap] Loading Paper 26.1.2-70-ver/26.1.2@70eaed6 (2026-06-14T10:18:21Z) for Minecraft 26.1.2
-[06:07:42] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[06:07:42] [ServerMain/INFO]: [PluginInitializerManager] Initialized 27 plugins
-[06:07:42] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (27):
+[23:19:33] [ServerMain/INFO]: [bootstrap] Running Java 25 (OpenJDK 64-Bit Server VM 25.0.2+10-LTS; Microsoft Microsoft-13053558) on Linux 6.8.0-1052-azure (amd64)
+[23:19:33] [ServerMain/INFO]: [bootstrap] Loading Paper 26.1.2-70-ver/26.1.2@70eaed6 (2026-06-14T10:18:21Z) for Minecraft 26.1.2
+[23:19:33] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[23:19:33] [ServerMain/INFO]: [PluginInitializerManager] Initialized 27 plugins
+[23:19:33] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (27):
  - BetterKeepInventory (2.1.1), DynamicLights (0.1.1), Fly (1.0.0), GSit (3.4.2), Geyser-Spigot (2.10.1-SNAPSHOT), KapakWeaponAuraPulseFixed (1.2.0), KapakWeaponOverpower (1.0.0), KapakWeaponReachV2 (2.0.0), KapakWeaponScare (1.0.0), KapakWeaponV3 (3.0.0), KapakWeaponWarning (1.0.0), MejiAdvancedV6 (1.5.0), MejiAdvancedV7 (1.6.0), MejiAdvancedV8 (1.6.1), MejiAfk (1.0.0), MejiCamera (1.0.0), MejiClaimsV3 (1.2.0), MejiPvpDuelV2 (1.1.0), MejiTopBarV2 (1.1.0), SetHome (6.2), SimpleTpa (8.0), SkinsRestorer (15.12.3), ViaBackwards (5.9.1), ViaRewind (4.1.1), ViaVersion (5.9.1), floodgate (2.2.5-SNAPSHOT (b132-5a72b6a)), squaremap (1.3.13)
-[06:07:48] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
-[06:07:50] [ServerMain/INFO]: Loaded 1515 recipes
-[06:07:50] [ServerMain/INFO]: Loaded 1617 advancements
-[06:07:50] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
-[06:07:51] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 470.8ms
-[06:07:51] [Server thread/INFO]: Starting minecraft server version 26.1.2
-[06:07:51] [Server thread/WARN]: ****************************
-[06:07:51] [Server thread/WARN]: YOU ARE RUNNING THIS SERVER AS AN ADMINISTRATIVE OR ROOT USER. THIS IS NOT ADVISED.
-[06:07:51] [Server thread/WARN]: YOU ARE OPENING YOURSELF UP TO POTENTIAL RISKS WHEN DOING THIS.
-[06:07:51] [Server thread/WARN]: FOR MORE INFORMATION, SEE https://madelinemiller.dev/blog/root-minecraft-server/
-[06:07:51] [Server thread/WARN]: ****************************
-[06:07:51] [Server thread/INFO]: Loading properties
-[06:07:51] [Server thread/INFO]: This server is running Paper version 26.1.2-70-ver/26.1.2@70eaed6 (2026-06-14T10:18:21Z) (Implementing API version 26.1.2.build.70-stable)
-[06:07:51] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[06:07:51] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[06:07:51] [Server thread/INFO]: Using 4 threads for Netty based IO
-[06:07:52] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
-[06:07:52] [Server thread/INFO]: Default game type: SURVIVAL
-[06:07:52] [Server thread/INFO]: Generating keypair
-[06:07:52] [Server thread/INFO]: Starting Minecraft server on *:25565
-[06:07:52] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[06:07:52] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
-[06:07:53] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.9.1
-[06:07:53] [Server thread/INFO]: [ViaVersion] ViaVersion 5.9.1 is now loaded. Registering protocol transformers and injecting...
-[06:07:53] [Via-Mappingloader-1/INFO]: [ViaVersion] Loading block connection mappings ...
-[06:07:54] [Server thread/INFO]: [ViaBackwards] Loading translations...
-[06:07:54] [Server thread/INFO]: [ViaBackwards] Registering protocols...
-[06:07:54] [Server thread/INFO]: [ViaRewind] Registering protocols...
-[06:07:54] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.5-SNAPSHOT (b132-5a72b6a)
-[06:07:55] [Server thread/WARN]: [floodgate] en_ is not a supported Floodgate language.
-[06:07:55] [Server thread/INFO]: [floodgate] Took 710ms to boot Floodgate
-[06:07:55] [Server thread/INFO]: [ViaBackwards] Loading server plugin ViaBackwards v5.9.1
-[06:07:55] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.12.3
-[06:07:55] [Server thread/INFO]: [GSit] Loading server plugin GSit v3.4.2
-[06:07:55] [Server thread/INFO]: [MejiPvpDuelV2] Loading server plugin MejiPvpDuelV2 v1.1.0
-[06:07:55] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.10.1-SNAPSHOT
-[06:07:56] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
-[06:07:56] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
-[06:07:56] [Server thread/INFO]: [SetHome] Loading server plugin SetHome v6.2
-[06:07:56] [Server thread/INFO]: [KapakWeaponOverpower] Loading server plugin KapakWeaponOverpower v1.0.0
-[06:07:56] [Server thread/INFO]: [squaremap] Loading server plugin squaremap v1.3.13
-[06:07:56] [Server thread/INFO]: [KapakWeaponWarning] Loading server plugin KapakWeaponWarning v1.0.0
-[06:07:56] [Server thread/INFO]: [KapakWeaponScare] Loading server plugin KapakWeaponScare v1.0.0
-[06:07:56] [Server thread/INFO]: [ViaRewind] Loading server plugin ViaRewind v4.1.1
-[06:07:56] [Server thread/INFO]: [MejiAdvancedV8] Loading server plugin MejiAdvancedV8 v1.6.1
-[06:07:56] [Server thread/INFO]: [KapakWeaponAuraPulseFixed] Loading server plugin KapakWeaponAuraPulseFixed v1.2.0
-[06:07:56] [Server thread/INFO]: [KapakWeaponReachV2] Loading server plugin KapakWeaponReachV2 v2.0.0
-[06:07:56] [Server thread/INFO]: [MejiCamera] Loading server plugin MejiCamera v1.0.0
-[06:07:56] [Server thread/INFO]: [MejiAfk] Loading server plugin MejiAfk v1.0.0
-[06:07:56] [Server thread/INFO]: [MejiClaimsV3] Loading server plugin MejiClaimsV3 v1.2.0
-[06:07:56] [Server thread/INFO]: [MejiAdvancedV7] Loading server plugin MejiAdvancedV7 v1.6.0
-[06:07:56] [Server thread/INFO]: [FLY] Loading server plugin Fly v1.0.0
-[06:07:56] [Server thread/INFO]: [MejiAdvancedV6] Loading server plugin MejiAdvancedV6 v1.5.0
-[06:07:56] [Server thread/INFO]: [MejiTopBarV2] Loading server plugin MejiTopBarV2 v1.1.0
-[06:07:56] [Server thread/INFO]: [DynamicLights] Loading server plugin DynamicLights v0.1.1
-[06:07:56] [Server thread/INFO]: [KapakWeaponV3] Loading server plugin KapakWeaponV3 v3.0.0
-[06:07:56] [Server thread/INFO]: [BetterKeepInventory] Loading server plugin BetterKeepInventory v2.1.1
-[06:07:56] [Server thread/INFO]: [SimpleTpa] Loading server plugin SimpleTpa v8.0
-[06:07:56] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[06:07:56] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.12.3
-[06:07:57] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 26.1.2.
-[06:07:57] [Server thread/INFO]: [SkinsRestorer] Floodgate skin listener registered
-[06:07:57] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
-[06:07:58] [Server thread/INFO]: [squaremap] Enabling squaremap v1.3.13
-[06:07:58] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[06:07:58] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +===================+
-[06:07:58] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer   |
-[06:07:58] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |-------------------|
-[06:07:58] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode  |
-[06:07:58] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +===================+
-[06:07:58] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[06:07:58] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.12.3
-[06:07:58] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 03cc9fd
-[06:07:58] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
-[06:07:58] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[06:07:58] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
-[06:07:58] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer or receive priority support? Become a supporter: https://skinsrestorer.net/pricing
-[06:07:58] [Server thread/INFO]: [io.undertow] starting server: Undertow - 2.3.24.Final
-[06:07:58] [Server thread/INFO]: [org.xnio] XNIO version 3.8.16.Final
-[06:07:59] [Server thread/INFO]: [org.xnio.nio] XNIO NIO Implementation Version 3.8.16.Final
-[06:07:59] [Server thread/INFO]: [org.jboss.threads] JBoss Threads version 3.7.0.Final
-[06:07:59] [Server thread/INFO]: [squaremap] Internal webserver running on 0.0.0.0:8080
-[06:07:59] [Server thread/INFO]: [ViaRewind] Enabling ViaRewind v4.1.1
-[06:07:59] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[06:07:59] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[06:07:59] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[06:07:59] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[06:07:59] [Server thread/INFO]: Preparing level "world"
-[06:08:00] [Server thread/INFO]: Loading 0 persistent chunks for level 'minecraft:overworld'...
-[06:08:00] [Server thread/INFO]: Prepared spawn area in 1 ms
-[06:08:00] [Server thread/INFO]: Loading 0 persistent chunks for level 'minecraft:the_nether'...
-[06:08:00] [Server thread/INFO]: Prepared spawn area in 0 ms
-[06:08:00] [Server thread/INFO]: Loading 0 persistent chunks for level 'minecraft:the_end'...
-[06:08:00] [Server thread/INFO]: Prepared spawn area in 0 ms
-[06:08:00] [Server thread/INFO]: Done preparing level "world" (0.868s)
-[06:08:00] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.9.1
-[06:08:00] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 26.1-26.1.2 (775)
-[06:08:00] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.5-SNAPSHOT (b132-5a72b6a)
-[06:08:01] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v5.9.1
-[06:08:01] [Server thread/INFO]: [GSit] Enabling GSit v3.4.2
-[06:08:01] [Server thread/INFO]: [GSit] The plugin was successfully enabled.
-[06:08:01] [Server thread/INFO]: [MejiPvpDuelV2] Enabling MejiPvpDuelV2 v1.1.0
-[06:08:01] [Server thread/INFO]: Loading 0 persistent chunks for level 'minecraft:flat'...
-[06:08:01] [Server thread/INFO]: Prepared spawn area in 0 ms
-[06:08:01] [Server thread/INFO]: [MejiPvpDuelV2] MejiPvpDuel enabled: /pvp <player> and /pvpaccept active.
-[06:08:01] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.10.1-SNAPSHOT
-[06:08:01] [Folia Async Scheduler Thread #2/INFO]: [GSit] New version available: 3.5.0! Current version: 3.4.2! Download the latest version: https://www.spigotmc.org/resources/GSit.62325
-[06:08:02] [Server thread/INFO]: [SetHome] Enabling SetHome v6.2
-[06:08:02] [Server thread/INFO]: [KapakWeaponOverpower] Enabling KapakWeaponOverpower v1.0.0
-[06:08:02] [Server thread/INFO]: [KapakWeaponOverpower] KapakWeaponOverpower enabled: extreme knockback, lightning, heal, speed, and kill notices active.
-[06:08:02] [Server thread/INFO]: [KapakWeaponWarning] Enabling KapakWeaponWarning v1.0.0
-[06:08:02] [Server thread/INFO]: [KapakWeaponWarning] KapakWeaponWarning enabled: nearby warning active.
-[06:08:02] [Server thread/INFO]: [KapakWeaponScare] Enabling KapakWeaponScare v1.0.0
-[06:08:02] [Server thread/INFO]: [KapakWeaponScare] KapakWeaponScare enabled: horror effects active.
-[06:08:02] [Server thread/INFO]: [MejiAdvancedV8] Enabling MejiAdvancedV8 v1.6.1
-[06:08:02] [Server thread/INFO]: [MejiAdvancedV8] MejiAdvanced V8 enabled: Bedrock-stable scoreboard, nametags, join/death/kill effects active.
-[06:08:02] [Server thread/INFO]: [KapakWeaponAuraPulseFixed] Enabling KapakWeaponAuraPulseFixed v1.2.0
-[06:08:02] [Server thread/INFO]: [KapakWeaponAuraPulseFixed] KapakWeaponAuraPulse enabled: red sky, harmless lightning, and blue fire pulse for 3 seconds.
-[06:08:02] [Server thread/INFO]: [KapakWeaponReachV2] Enabling KapakWeaponReachV2 v2.0.0
-[06:08:02] [Server thread/INFO]: [KapakWeaponReachV2] KapakWeaponReach enabled: hunger refill, glint, and 96-block reach active.
-[06:08:02] [Server thread/INFO]: [MejiCamera] Enabling MejiCamera v1.0.0
-[06:08:02] [Server thread/INFO]: [MejiCamera] MejiCamera enabled: /camera on and /camera off are ready.
-[06:08:02] [Server thread/INFO]: [MejiAfk] Enabling MejiAfk v1.0.0
-[06:08:02] [Server thread/INFO]: [MejiAfk] MejiAfk enabled: /afk on and /afk off are ready.
-[06:08:02] [Server thread/INFO]: [MejiClaimsV3] Enabling MejiClaimsV3 v1.2.0
-[06:08:02] [Server thread/INFO]: [MejiClaimsV3] MejiClaims enabled: golden shovel claim protection active.
-[06:08:02] [Server thread/INFO]: [MejiAdvancedV7] Enabling MejiAdvancedV7 v1.6.0
-[06:08:02] [Server thread/INFO]: [MejiAdvancedV7] MejiAdvanced V7 enabled: Bedrock-stable scoreboard, nametags, join/death/kill effects active.
-[06:08:02] [Server thread/INFO]: [FLY] Enabling Fly v1.0.0
-[06:08:02] [Server thread/INFO]: [FLY] Thank you for using flight!
-[06:08:02] [Server thread/INFO]: [MejiAdvancedV6] Enabling MejiAdvancedV6 v1.5.0
-[06:08:02] [Server thread/INFO]: [MejiAdvancedV6] MejiAdvanced enabled: scoreboard, nametags, join/death/kill effects active.
-[06:08:02] [Server thread/INFO]: [MejiTopBarV2] Enabling MejiTopBarV2 v1.1.0
-[06:08:02] [Server thread/INFO]: [MejiTopBarV2] MejiTopBar enabled: animated top bossbar active.
-[06:08:02] [Server thread/INFO]: [DynamicLights] Enabling DynamicLights v0.1.1
-[06:08:02] [Server thread/INFO]: [KapakWeaponV3] Enabling KapakWeaponV3 v3.0.0
-[06:08:02] [Server thread/INFO]: [KapakWeaponV3] KapakWeaponV2 enabled. Use /get kapak or /get pedang.
-[06:08:02] [Server thread/INFO]: [BetterKeepInventory] Enabling BetterKeepInventory v2.1.1
-[06:08:02] [Server thread/INFO]: [BetterKeepInventory] Loading config...
-[06:08:02] [Server thread/INFO]: [BetterKeepInventory] Loaded config
-[06:08:02] [Server thread/INFO]: [BetterKeepInventory] Registering commands and events...
-[06:08:02] [Server thread/INFO]: [BetterKeepInventory] Registered commands and events
-[06:08:02] [Server thread/INFO]: [BetterKeepInventory] Checking for BetterReload...
-[06:08:02] [Server thread/INFO]: [BetterKeepInventory] BetterReload was not found so support for it will not be enabled
-[06:08:02] [Server thread/INFO]: [SimpleTpa] Enabling SimpleTpa v8.0
-[06:08:02] [Server thread/INFO]: [SimpleTpa] If you need support contact me at https://discord.gg/SZUkza9
-[06:08:02] [Server thread/INFO]: [SimpleTpa] Simple Tpa has been enabled on version 8.0
-[06:08:02] [Server thread/INFO]: Enabled metrics. You may opt-out by changing plugins/bStats/config.yml
-[06:08:03] [Server thread/INFO]: [spark] Starting background profiler...
-[06:08:03] [Server thread/INFO]: [Geyser-Spigot] ******************************************
-[06:08:03] [Server thread/INFO]: [Geyser-Spigot] 
-[06:08:03] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.10.1-b1168 (git-master-69dc2cf)
-[06:08:03] [Server thread/INFO]: [Geyser-Spigot] 
-[06:08:03] [Server thread/INFO]: [Geyser-Spigot] ******************************************
-[06:08:07] [Server thread/WARN]: [Geyser-Spigot] The resource pack PrizmaVisuals_1.3.10.mcpack has a file in it that meets or exceeds 80 characters in its path (subpacks/1/textures/blocks/deepslate/reinforced_deepslate_bottom.texture_set.json, 81 characters long). This will cause problems on some Bedrock platforms. Please rename it to be shorter, or reduce the amount of folders needed to get to the file.
-[06:08:07] [Server thread/WARN]: [Geyser-Spigot] The resource pack PrizmaVisuals_1.3.10.mcpack has a file in it that meets or exceeds 80 characters in its path (subpacks/1/textures/blocks/huge_fungus/stripped_crimson_stem_side.texture_set.json, 82 characters long). This will cause problems on some Bedrock platforms. Please rename it to be shorter, or reduce the amount of folders needed to get to the file.
-[06:08:07] [Server thread/WARN]: [Geyser-Spigot] The resource pack PrizmaVisuals_1.3.10.mcpack has a file in it that meets or exceeds 80 characters in its path (subpacks/1/textures/blocks/huge_fungus/stripped_crimson_stem_top.texture_set.json, 81 characters long). This will cause problems on some Bedrock platforms. Please rename it to be shorter, or reduce the amount of folders needed to get to the file.
-[06:08:07] [Server thread/WARN]: [Geyser-Spigot] The resource pack PrizmaVisuals_1.3.10.mcpack has a file in it that meets or exceeds 80 characters in its path (subpacks/1/textures/blocks/huge_fungus/stripped_warped_stem_side.texture_set.json, 81 characters long). This will cause problems on some Bedrock platforms. Please rename it to be shorter, or reduce the amount of folders needed to get to the file.
-[06:08:07] [Server thread/WARN]: [Geyser-Spigot] The resource pack PrizmaVisuals_1.3.10.mcpack has a file in it that meets or exceeds 80 characters in its path (subpacks/1/textures/blocks/huge_fungus/stripped_warped_stem_top.texture_set.json, 80 characters long). This will cause problems on some Bedrock platforms. Please rename it to be shorter, or reduce the amount of folders needed to get to the file.
-[06:08:07] [Server thread/WARN]: [Geyser-Spigot] The resource pack PrizmaVisuals_1.3.10.mcpack has a file in it that meets or exceeds 80 characters in its path (subpacks/1/textures/blocks/repeating_command_block_front_mipmap.texture_set.json, 80 characters long). This will cause problems on some Bedrock platforms. Please rename it to be shorter, or reduce the amount of folders needed to get to the file.
-[06:08:07] [Server thread/WARN]: [Geyser-Spigot] The resource pack PrizmaVisuals_1.3.10.mcpack has a file in it that meets or exceeds 80 characters in its path (subpacks/2/textures/blocks/deepslate/reinforced_deepslate_bottom.texture_set.json, 81 characters long). This will cause problems on some Bedrock platforms. Please rename it to be shorter, or reduce the amount of folders needed to get to the file.
-[06:08:07] [Server thread/WARN]: [Geyser-Spigot] The resource pack PrizmaVisuals_1.3.10.mcpack has a file in it that meets or exceeds 80 characters in its path (subpacks/2/textures/blocks/huge_fungus/stripped_crimson_stem_side.texture_set.json, 82 characters long). This will cause problems on some Bedrock platforms. Please rename it to be shorter, or reduce the amount of folders needed to get to the file.
-[06:08:07] [Server thread/WARN]: [Geyser-Spigot] The resource pack PrizmaVisuals_1.3.10.mcpack has a file in it that meets or exceeds 80 characters in its path (subpacks/2/textures/blocks/huge_fungus/stripped_crimson_stem_top.texture_set.json, 81 characters long). This will cause problems on some Bedrock platforms. Please rename it to be shorter, or reduce the amount of folders needed to get to the file.
-[06:08:07] [Server thread/WARN]: [Geyser-Spigot] The resource pack PrizmaVisuals_1.3.10.mcpack has a file in it that meets or exceeds 80 characters in its path (subpacks/2/textures/blocks/huge_fungus/stripped_warped_stem_side.texture_set.json, 81 characters long). This will cause problems on some Bedrock platforms. Please rename it to be shorter, or reduce the amount of folders needed to get to the file.
-[06:08:07] [Server thread/WARN]: [Geyser-Spigot] The resource pack PrizmaVisuals_1.3.10.mcpack has a file in it that meets or exceeds 80 characters in its path (subpacks/2/textures/blocks/huge_fungus/stripped_warped_stem_top.texture_set.json, 80 characters long). This will cause problems on some Bedrock platforms. Please rename it to be shorter, or reduce the amount of folders needed to get to the file.
-[06:08:07] [Server thread/WARN]: [Geyser-Spigot] The resource pack PrizmaVisuals_1.3.10.mcpack has a file in it that meets or exceeds 80 characters in its path (subpacks/2/textures/blocks/repeating_command_block_front_mipmap.texture_set.json, 80 characters long). This will cause problems on some Bedrock platforms. Please rename it to be shorter, or reduce the amount of folders needed to get to the file.
-[06:08:07] [Server thread/WARN]: [Geyser-Spigot] The resource pack Utility-Dark-V1.0.6.mcpack has a file in it that meets or exceeds 80 characters in its path (subpacks/no particles and no animations/particles/trial_spawner_detection_ominous.particle.json, 95 characters long). This will cause problems on some Bedrock platforms. Please rename it to be shorter, or reduce the amount of folders needed to get to the file.
-[06:08:07] [Server thread/WARN]: [Geyser-Spigot] The resource pack Utility-Dark-V1.0.6.mcpack has a file in it that meets or exceeds 80 characters in its path (subpacks/no particles and no animations/particles/spore_blossom_ambient_block_actor.json, 88 characters long). This will cause problems on some Bedrock platforms. Please rename it to be shorter, or reduce the amount of folders needed to get to the file.
-[06:08:07] [Server thread/WARN]: [Geyser-Spigot] The resource pack Utility-Dark-V1.0.6.mcpack has a file in it that meets or exceeds 80 characters in its path (subpacks/no particles and no animations/particles/smash_ground_particle_center.json, 83 characters long). This will cause problems on some Bedrock platforms. Please rename it to be shorter, or reduce the amount of folders needed to get to the file.
-[06:08:07] [Server thread/WARN]: [Geyser-Spigot] The resource pack Utility-Dark-V1.0.6.mcpack has a file in it that meets or exceeds 80 characters in its path (subpacks/no particles and no animations/particles/sculk_sensor_redstone_particle.json, 85 characters long). This will cause problems on some Bedrock platforms. Please rename it to be shorter, or reduce the amount of folders needed to get to the file.
-[06:08:07] [Server thread/WARN]: [Geyser-Spigot] The resource pack Utility-Dark-V1.0.6.mcpack has a file in it that meets or exceeds 80 characters in its path (subpacks/no particles and no animations/particles/ominous_spawning_particle.json, 80 characters long). This will cause problems on some Bedrock platforms. Please rename it to be shorter, or reduce the amount of folders needed to get to the file.
-[06:08:07] [Server thread/WARN]: [Geyser-Spigot] The resource pack Utility-Dark-V1.0.6.mcpack has a file in it that meets or exceeds 80 characters in its path (subpacks/no particles and no animations/particles/falling_dust_concrete_powder.json, 83 characters long). This will cause problems on some Bedrock platforms. Please rename it to be shorter, or reduce the amount of folders needed to get to the file.
-[06:08:07] [Server thread/WARN]: [Geyser-Spigot] The resource pack Utility-Dark-V1.0.6.mcpack has a file in it that meets or exceeds 80 characters in its path (subpacks/no particles and no animations/particles/explosion_eyeofender_death.json, 81 characters long). This will cause problems on some Bedrock platforms. Please rename it to be shorter, or reduce the amount of folders needed to get to the file.
-[06:08:07] [Server thread/WARN]: [Geyser-Spigot] The resource pack Utility-Dark-V1.0.6.mcpack has a file in it that meets or exceeds 80 characters in its path (subpacks/no particles and no animations/particles/evaporation_elephant_toothpaste.json, 86 characters long). This will cause problems on some Bedrock platforms. Please rename it to be shorter, or reduce the amount of folders needed to get to the file.
-[06:08:07] [Server thread/WARN]: [Geyser-Spigot] The resource pack Utility-Dark-V1.0.6.mcpack has a file in it that meets or exceeds 80 characters in its path (subpacks/no particles and no animations/particles/cherry_leaves_particle.particle.json, 86 characters long). This will cause problems on some Bedrock platforms. Please rename it to be shorter, or reduce the amount of folders needed to get to the file.
-[06:08:07] [Server thread/WARN]: [Geyser-Spigot] The resource pack Utility-Dark-V1.0.6.mcpack has a file in it that meets or exceeds 80 characters in its path (subpacks/no particles and no animations/particles/pale_oak_leaves_particle.particle.json, 88 characters long). This will cause problems on some Bedrock platforms. Please rename it to be shorter, or reduce the amount of folders needed to get to the file.
-[06:08:07] [Server thread/WARN]: [Geyser-Spigot] The resource pack Utility-Dark-V1.0.6.mcpack has a file in it that meets or exceeds 80 characters in its path (subpacks/no particles and no animations/particles/biome_tinted_leaves_particle.json, 83 characters long). This will cause problems on some Bedrock platforms. Please rename it to be shorter, or reduce the amount of folders needed to get to the file.
-[06:08:07] [Server thread/WARN]: [Geyser-Spigot] The resource pack Utility-Dark-V1.0.6.mcpack has a file in it that meets or exceeds 80 characters in its path (subpacks/no particles and no animations/particles/trial_spawner_detection.particle.json, 87 characters long). This will cause problems on some Bedrock platforms. Please rename it to be shorter, or reduce the amount of folders needed to get to the file.
-[06:08:07] [Server thread/WARN]: [Geyser-Spigot] The resource pack Utility-Dark-V1.0.6.mcpack has a file in it that meets or exceeds 80 characters in its path (subpacks/no particles and no animations/particles/enchanting_table_particle.json, 80 characters long). This will cause problems on some Bedrock platforms. Please rename it to be shorter, or reduce the amount of folders needed to get to the file.
-[06:08:07] [Server thread/WARN]: [Geyser-Spigot] The resource pack Utility-Dark-V1.0.6.mcpack has a file in it that meets or exceeds 80 characters in its path (subpacks/no particles and no animations/particles/enchanting_table_particle.particle.json, 89 characters long). This will cause problems on some Bedrock platforms. Please rename it to be shorter, or reduce the amount of folders needed to get to the file.
-[06:08:07] [GeyserServer-3-1/INFO]: [Geyser-Spigot] Started Geyser on UDP port 19132
-[06:08:08] [Server thread/INFO]: [Geyser-Spigot] Done (4.581s)! Run /geyser help for help!
-[06:08:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[06:08:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[06:08:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[06:08:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:flat
-[06:08:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[06:08:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[06:08:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[06:08:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (flat): All chunks are saved
-[06:08:08] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[06:08:08] [Server thread/INFO]: Running delayed init tasks
-[06:08:08] [ForkJoinPool.commonPool-worker-1/INFO]: [squaremap] Fetching version information...
-[06:08:08] [Server thread/INFO]: Done (27.673s)! For help, type "help"
-[06:08:08] [Craft Scheduler Thread - 2 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
-[06:08:09] [User Authenticator #0/INFO]: UUID of player EagleShadow is 0377734c-aa46-3b4c-98b6-82c8ae2394ea
-[06:08:11] [Server thread/INFO]: [+] EagleShadow entered Meji with style. | Selamat datang, jangan jadi Steve.
-[06:08:11] [Server thread/INFO]: EagleShadow[/127.103.212.23:33015] logged in with entity id 188 at ([minecraft:overworld]-10.353008912207747, 68.0, 39.37913358761263)
-[06:08:15] [User Authenticator #1/INFO]: UUID of player tanpoint is 5700343a-c805-3fa7-add9-b279bffb48dd
-[06:08:16] [Server thread/INFO]: EagleShadow has made the advancement [Monster Hunter]
-[06:08:16] [Server thread/INFO]: [+] tanpoint entered Meji with style. | Selamat datang, jangan jadi Steve.
-[06:08:16] [Server thread/INFO]: tanpoint[/127.203.202.236:56493] logged in with entity id 323 at ([minecraft:overworld]-27.90522616262907, 70.0, 27.304481155233955)
-[06:08:43] [Async Chat Thread - #1/INFO]: [Not Secure] [Meji] Survivor | tanpoint » BACKUP 2 DAY AGO
-[06:08:46] [Server thread/INFO]: EagleShadow issued server command: /skins
-[06:08:47] [Async Chat Thread - #1/INFO]: [Not Secure] [Meji] Survivor | tanpoint » ISTIGFAR
-[06:08:48] [Folia Async Scheduler Thread #2/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
-[06:08:56] [Async Chat Thread - #0/INFO]: [Not Secure] [Meji] Survivor | tanpoint » TYPE /skins
-[06:09:21] [Server thread/INFO]: tanpoint issued server command: /skin set https://tlauncher.org/catalog/skins%255Cboys/download/skin_20160418132128188528.png
-[06:09:32] [Server thread/INFO]: EagleShadow issued server command: /get pedang
-[06:10:15] [Server thread/INFO]: EagleShadow issued server command: /skins
-[06:10:39] [Server thread/INFO]: EagleShadow issued server command: / skins
-[06:10:42] [Server thread/INFO]: EagleShadow issued server command: /skins
-[06:10:53] [Server thread/INFO]: [MEJI] tanpoint died: lost close combat / kalah jarak dekat
-[06:11:09] [Server thread/INFO]: EagleShadow issued server command: /skin url
-[06:11:34] [Server thread/INFO]: tanpoint issued server command: /skin url "https://minesk.in/4c37f25f00ed4465ba3eea577b7292c2" classic
-[06:12:07] [Server thread/INFO]: EagleShadow issued server command: /skin url https://minesk.in/4c37f25f00ed4465ba3eea577b7292c2
-[06:12:22] [Server thread/INFO]: EagleShadow issued server command: /pvp off
-[06:12:25] [Server thread/INFO]: tanpoint issued server command: /skin url "https://minesk.in/b79b7a61cec842139545eb092d58e90d" slim
-[06:13:08] [Server thread/INFO]: tanpoint issued server command: /skin url "https://minesk.in/6b11c8e061d24e288d2a869412ca5b8a" classic
-[06:13:24] [GeyserServerChild-4-1/INFO]: [Geyser-Spigot] Player connected with username ElectedRun19 (1001)
-[06:13:24] [localSession-7-2/INFO]: [Geyser-Spigot] ElectedRun19 (logged in as: ElectedRun19) has connected to the Java server
-[06:13:25] [Server thread/INFO]: [floodgate] Floodgate player logged in as .ElectedRun19 joined (UUID: 00000000-0000-0000-0009-01f921b76c43)
-[06:13:25] [Server thread/INFO]: [+] .ElectedRun19 entered Meji with style. | Selamat datang, jangan jadi Steve.
-[06:13:25] [Server thread/INFO]: .ElectedRun19[/127.103.212.23:0] logged in with entity id 1603 at ([minecraft:overworld]-5.8228774, 68.0, 20.364666)
-[06:13:56] [Server thread/INFO]: .ElectedRun19 issued server command: /skins
-[06:14:22] [Server thread/INFO]: [MEJI] .ElectedRun19 died: lost close combat / kalah jarak dekat
-[06:14:46] [Server thread/INFO]: tanpoint issued server command: /skin url "skinsrestorer-axolotl://fu1S0eQlzqSbgErb+TSnfA+/4twt45TiZt8qFzomD+itYN7h9EG9Fib/nncTgQ5ASW4bNmpfAD/cIJ/F1oXOKQ==" classic
-[06:14:53] [Server thread/INFO]: .ElectedRun19 issued server command: /skins
-[06:15:03] [Server thread/INFO]: .ElectedRun19 issued server command: /skins
-[06:18:21] [Server thread/INFO]: Unknown item 'minecraft:enchanted_table'
-... tanpoint enchanted_table<--[HERE]
-[06:18:31] [Server thread/INFO]: Unknown item 'minecraft:enchanted_table'
-... tanpoint enchanted_table 1<--[HERE]
-[06:19:50] [Server thread/INFO]: Gave 1 [Enchanting Table] to tanpoint
-[06:19:56] [GeyserServerChild-4-1/INFO]: [Geyser-Spigot] ElectedRun19 has disconnected from the Java server because of Bedrock client timed out
-[06:19:56] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .ElectedRun19 disconnected
-[06:19:56] [Server thread/INFO]: .ElectedRun19 lost connection: Disconnected
-[06:19:56] [Server thread/INFO]: [-] .ElectedRun19 left Meji. Progress saved, pride optional.
-[06:20:08] [Server thread/INFO]: Book cannot support that enchantment
-[06:21:13] [Server thread/INFO]: Malformed 'minecraft:stored_enchantments' component: 'Not a number; Failed to get element minecraft:levels missed input: {levels:{mending:1}}'
-...hantments={levels:{mending:1}}] 1<--[HERE]
-[06:21:29] [Server thread/INFO]: Gave 1 [Enchanted Book] to tanpoint
-[06:21:56] [Server thread/INFO]: EagleShadow issued server command: /get kapak
-[06:25:43] [Server thread/INFO]: EagleShadow has made the advancement [Sneak 100]
-[06:26:48] [Server thread/INFO]: EagleShadow issued server command: /get bow
-[06:27:49] [Server thread/INFO]: EagleShadow issued server command: /home base
-[06:28:09] [Server thread/INFO]: EagleShadow issued server command: /sethome base
-[06:29:56] [Server thread/INFO]: EagleShadow has made the advancement [We Need to Go Deeper]
-[06:30:15] [Attach Listener/WARN]: java.lang.reflect.InvocationTargetException
-[06:30:15] [Attach Listener/WARN]: 	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:119)
-[06:30:15] [Attach Listener/WARN]: 	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
-[06:30:15] [Attach Listener/WARN]: 	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:544)
-[06:30:15] [Attach Listener/WARN]: 	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallAgentmain(InstrumentationImpl.java:566)
-[06:30:15] [Attach Listener/WARN]: Caused by: java.lang.ClassNotFoundException: org.bukkit.Bukkit
-[06:30:15] [Attach Listener/WARN]: 	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:580)
-[06:30:15] [Attach Listener/WARN]: 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:490)
-[06:30:15] [Attach Listener/WARN]: 	at java.base/java.lang.Class.forName0(Native Method)
-[06:30:15] [Attach Listener/WARN]: 	at java.base/java.lang.Class.forName(Class.java:467)
-[06:30:15] [Attach Listener/WARN]: 	at java.base/java.lang.Class.forName(Class.java:458)
-[06:30:15] [Attach Listener/WARN]: 	at TrustClaimsAgent.agentmain(TrustClaimsAgent.java:13)
-[06:30:15] [Attach Listener/WARN]: 	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
-[06:30:15] [Attach Listener/WARN]: 	... 3 more
-[06:30:39] [Attach Listener/WARN]: java.lang.reflect.InvocationTargetException
-[06:30:39] [Attach Listener/WARN]: 	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:119)
-[06:30:39] [Attach Listener/WARN]: 	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
-[06:30:39] [Attach Listener/WARN]: 	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:544)
-[06:30:39] [Attach Listener/WARN]: 	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallAgentmain(InstrumentationImpl.java:566)
-[06:30:39] [Attach Listener/WARN]: Caused by: java.lang.ClassNotFoundException: org.bukkit.Bukkit
-[06:30:39] [Attach Listener/WARN]: 	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:580)
-[06:30:39] [Attach Listener/WARN]: 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:490)
-[06:30:39] [Attach Listener/WARN]: 	at java.base/java.lang.Class.forName0(Native Method)
-[06:30:39] [Attach Listener/WARN]: 	at java.base/java.lang.Class.forName(Class.java:467)
-[06:30:39] [Attach Listener/WARN]: 	at java.base/java.lang.Class.forName(Class.java:458)
-[06:30:39] [Attach Listener/WARN]: 	at TrustClaimsAgent.agentmain(TrustClaimsAgent.java:13)
-[06:30:39] [Attach Listener/WARN]: 	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
-[06:30:39] [Attach Listener/WARN]: 	... 3 more
-[06:30:47] [Server thread/INFO]: EagleShadow issued server command: /home
-[06:31:21] [Attach Listener/INFO]: [MejiClaimsV3] Trusted eagleshadow in 4 claims (4 changed).
-[06:31:57] [Server thread/INFO]: EagleShadow issued server command: /sethome base
-[06:32:03] [Server thread/INFO]: EagleShadow issued server command: /home base
-[06:34:52] [Server thread/INFO]: [MEJI] EagleShadow died: lost close combat / kalah jarak dekat
-[06:34:58] [Server thread/INFO]: EagleShadow issued server command: /back
-[06:36:24] [Server thread/INFO]: EagleShadow issued server command: /home base
-[06:38:13] [Server thread/INFO]: tanpoint lost connection: Disconnected
-[06:38:13] [Server thread/INFO]: [-] tanpoint left Meji. Progress saved, pride optional.
-[06:38:17] [User Authenticator #2/INFO]: UUID of player tanpoint is 5700343a-c805-3fa7-add9-b279bffb48dd
-[06:38:18] [Server thread/INFO]: [+] tanpoint entered Meji with style. | Selamat datang, jangan jadi Steve.
-[06:38:18] [Server thread/INFO]: tanpoint[/127.158.54.236:38409] logged in with entity id 6413 at ([minecraft:overworld]-9.3838627336127, 68.0, 23.50917865144079)
-[06:38:47] [Server thread/INFO]: tanpoint lost connection: Disconnected
-[06:38:47] [Server thread/INFO]: [-] tanpoint left Meji. Progress saved, pride optional.
-[06:38:53] [User Authenticator #3/INFO]: UUID of player tanpoint is 5700343a-c805-3fa7-add9-b279bffb48dd
-[06:38:53] [Server thread/INFO]: [+] tanpoint entered Meji with style. | Selamat datang, jangan jadi Steve.
-[06:38:53] [Server thread/INFO]: tanpoint[/127.77.197.72:44827] logged in with entity id 6480 at ([minecraft:overworld]-8.69392355315389, 68.0, 24.849252240572707)
-[06:39:19] [Server thread/INFO]: tanpoint lost connection: Disconnected
-[06:39:19] [Server thread/INFO]: [-] tanpoint left Meji. Progress saved, pride optional.
-[06:39:21] [User Authenticator #4/INFO]: UUID of player tanpoint is 5700343a-c805-3fa7-add9-b279bffb48dd
-[06:39:22] [Server thread/INFO]: [+] tanpoint entered Meji with style. | Selamat datang, jangan jadi Steve.
-[06:39:22] [Server thread/INFO]: tanpoint[/127.203.202.236:54367] logged in with entity id 6555 at ([minecraft:overworld]-7.8372645024793, 68.0, 27.289745383870525)
-[06:41:19] [Server thread/INFO]: Gave 1 [Elytra] to tanpoint
-[06:41:37] [Server thread/INFO]: EagleShadow has made the advancement [Stone Age]
-[06:42:13] [Server thread/INFO]: Applied enchantment Unbreaking III to tanpoint's item
-[06:43:23] [Server thread/INFO]: Gave 55 [Stone] to tanpoint
-[06:45:32] [Server thread/INFO]: tanpoint lost connection: Disconnected
-[06:45:32] [Server thread/INFO]: [-] tanpoint left Meji. Progress saved, pride optional.
-[06:45:42] [User Authenticator #5/INFO]: UUID of player tanpoint is 5700343a-c805-3fa7-add9-b279bffb48dd
-[06:45:46] [Server thread/INFO]: [+] tanpoint entered Meji with style. | Selamat datang, jangan jadi Steve.
-[06:45:46] [Server thread/INFO]: tanpoint[/127.203.202.236:34465] logged in with entity id 8108 at ([minecraft:overworld]-1.8291857941457164, 69.0, 6.2334689949497575)
-[06:46:18] [Server thread/INFO]: EagleShadow lost connection: Disconnected
-[06:46:18] [Server thread/INFO]: [-] EagleShadow left Meji. Progress saved, pride optional.
-[06:46:21] [Server thread/INFO]: tanpoint was kicked due to keepalive timeout!
-[06:46:21] [Server thread/INFO]: tanpoint lost connection: Disconnected
-[06:46:21] [Server thread/INFO]: [-] tanpoint left Meji. Progress saved, pride optional.
-[06:47:16] [User Authenticator #6/INFO]: UUID of player tanpoint is 5700343a-c805-3fa7-add9-b279bffb48dd
-[06:47:17] [Server thread/INFO]: [+] tanpoint entered Meji with style. | Selamat datang, jangan jadi Steve.
-[06:47:17] [Server thread/INFO]: tanpoint[/127.203.202.236:60827] logged in with entity id 8389 at ([minecraft:overworld]-1.8291857941457164, 69.0, 6.2334689949497575)
-[06:47:56] [Server thread/INFO]: tanpoint was kicked due to keepalive timeout!
-[06:47:56] [Server thread/INFO]: tanpoint lost connection: Timed out
-[06:47:56] [Server thread/INFO]: [-] tanpoint left Meji. Progress saved, pride optional.
-[06:50:09] [User Authenticator #7/INFO]: UUID of player EagleShadow is 0377734c-aa46-3b4c-98b6-82c8ae2394ea
-[06:50:09] [Server thread/INFO]: [+] EagleShadow entered Meji with style. | Selamat datang, jangan jadi Steve.
-[06:50:09] [Server thread/INFO]: EagleShadow[/127.103.212.23:47297] logged in with entity id 9054 at ([minecraft:overworld]109.90874660553081, 63.0, 270.77726096903297)
-[06:50:29] [Server thread/INFO]: EagleShadow issued server command: /home base
-[06:53:41] [User Authenticator #8/INFO]: UUID of player tanpoint is 5700343a-c805-3fa7-add9-b279bffb48dd
-[06:53:42] [Server thread/INFO]: [+] tanpoint entered Meji with style. | Selamat datang, jangan jadi Steve.
-[06:53:42] [Server thread/INFO]: tanpoint[/127.77.197.72:40711] logged in with entity id 10454 at ([minecraft:overworld]-1.8291857941457164, 69.0, 6.2334689949497575)
-[06:54:38] [Server thread/INFO]: tanpoint issued server command: /tpa EagleShadow
-[06:54:59] [Server thread/INFO]: EagleShadow issued server command: /tpaccept
-[07:00:56] [Server thread/INFO]: EagleShadow has made the advancement [Surge Protector]
-[07:09:23] [Server thread/INFO]: Villager Villager['Farmer'/9052, uuid='f6adde32-455f-4d4e-aa01-ed49db4f547b', l='ServerLevel[world]', x=57.71, y=62.71, z=252.59, cpos=[3, 15], tl=23068, v=true] died, message: 'Farmer was blown up by Creeper'
-[07:10:25] [Server thread/INFO]: EagleShadow issued server command: /home base
-[07:10:56] [Server thread/INFO]: EagleShadow issued server command: /tpa tanpoint
-[07:16:02] [Server thread/INFO]: EagleShadow issued server command: /home base
-[07:16:33] [Server thread/INFO]: EagleShadow issued server command: /back
-[07:22:28] [Server thread/INFO]: EagleShadow lost connection: Disconnected
-[07:22:28] [Server thread/INFO]: [-] EagleShadow left Meji. Progress saved, pride optional.
-[07:24:37] [Server thread/INFO]: Villager Villager['Weaponsmith'/9095, uuid='262558fd-43e9-406b-ab67-4213b87a0e0f', l='ServerLevel[world]', x=106.21, y=62.71, z=281.51, cpos=[6, 17], tl=41309, v=true] died, message: 'Weaponsmith was slain by Zombie'
-[07:29:34] [Server thread/INFO]: Villager Villager['Nitwit'/9053, uuid='facdc3d0-dd37-411a-ae8c-441e57cfa225', l='ServerLevel[world]', x=112.54, y=63.00, z=275.30, cpos=[7, 17], tl=47292, v=true] died, message: 'Nitwit was slain by Zombie'
-[07:29:36] [Server thread/INFO]: Villager Villager['Weaponsmith'/9050, uuid='99f2ea0e-7e23-4a16-ac75-5cf31a07beab', l='ServerLevel[world]', x=110.30, y=63.00, z=275.30, cpos=[6, 17], tl=47333, v=true] died, message: 'Weaponsmith was slain by Zombie'
-[07:29:40] [Server thread/INFO]: Villager Villager['Mason'/9051, uuid='e50db59d-127d-41c8-b9d8-ff5a271201cf', l='ServerLevel[world]', x=110.30, y=63.00, z=275.30, cpos=[6, 17], tl=47423, v=true] died, message: 'Mason was slain by Zombie Villager'
-[07:29:42] [Server thread/INFO]: Villager Villager['Fletcher'/9049, uuid='db783de4-c112-4239-b365-c1a5a94580c5', l='ServerLevel[world]', x=110.30, y=63.00, z=275.30, cpos=[6, 17], tl=47466, v=true] died, message: 'Fletcher was slain by Zombie'
-[07:42:46] [Server thread/INFO]: Gave 600 [Firework Rocket] to tanpoint
-[07:43:29] [Server thread/INFO]: tanpoint issued server command: /sethome mansion
-[07:44:32] [Server thread/INFO]: tanpoint lost connection: Disconnected
-[07:44:32] [Server thread/INFO]: [-] tanpoint left Meji. Progress saved, pride optional.
+[23:19:38] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[23:19:41] [ServerMain/INFO]: Loaded 1515 recipes
+[23:19:41] [ServerMain/INFO]: Loaded 1617 advancements
+[23:19:41] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
+[23:19:41] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 374.7ms
+[23:19:41] [Server thread/INFO]: Starting minecraft server version 26.1.2
+[23:19:41] [Server thread/WARN]: ****************************
+[23:19:41] [Server thread/WARN]: YOU ARE RUNNING THIS SERVER AS AN ADMINISTRATIVE OR ROOT USER. THIS IS NOT ADVISED.
+[23:19:41] [Server thread/WARN]: YOU ARE OPENING YOURSELF UP TO POTENTIAL RISKS WHEN DOING THIS.
+[23:19:41] [Server thread/WARN]: FOR MORE INFORMATION, SEE https://madelinemiller.dev/blog/root-minecraft-server/
+[23:19:41] [Server thread/WARN]: ****************************
+[23:19:41] [Server thread/INFO]: Loading properties
+[23:19:41] [Server thread/INFO]: This server is running Paper version 26.1.2-70-ver/26.1.2@70eaed6 (2026-06-14T10:18:21Z) (Implementing API version 26.1.2.build.70-stable)
+[23:19:41] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[23:19:41] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[23:19:41] [Server thread/INFO]: Using 4 threads for Netty based IO
+[23:19:42] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[23:19:42] [Server thread/INFO]: Default game type: SURVIVAL
+[23:19:42] [Server thread/INFO]: Generating keypair
+[23:19:42] [Server thread/INFO]: Starting Minecraft server on *:25565
+[23:19:42] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[23:19:42] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
+[23:19:43] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.9.1
+[23:19:43] [Server thread/INFO]: [ViaVersion] ViaVersion 5.9.1 is now loaded. Registering protocol transformers and injecting...
+[23:19:44] [Via-Mappingloader-1/INFO]: [ViaVersion] Loading block connection mappings ...
+[23:19:44] [Server thread/INFO]: [ViaBackwards] Loading translations...
+[23:19:44] [Server thread/INFO]: [ViaBackwards] Registering protocols...
+[23:19:44] [Server thread/INFO]: [ViaRewind] Registering protocols...
+[23:19:44] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.5-SNAPSHOT (b132-5a72b6a)
+[23:19:45] [Server thread/WARN]: [floodgate] en_ is not a supported Floodgate language.
+[23:19:46] [Server thread/INFO]: [floodgate] Took 1,085ms to boot Floodgate
+[23:19:46] [Server thread/INFO]: [ViaBackwards] Loading server plugin ViaBackwards v5.9.1
+[23:19:46] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.12.3
+[23:19:46] [Server thread/INFO]: [GSit] Loading server plugin GSit v3.4.2
+[23:19:46] [Server thread/INFO]: [MejiPvpDuelV2] Loading server plugin MejiPvpDuelV2 v1.1.0
+[23:19:46] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.10.1-SNAPSHOT
+[23:19:46] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
+[23:19:46] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
+[23:19:46] [Server thread/INFO]: [SetHome] Loading server plugin SetHome v6.2
+[23:19:46] [Server thread/INFO]: [KapakWeaponOverpower] Loading server plugin KapakWeaponOverpower v1.0.0
+[23:19:46] [Server thread/INFO]: [squaremap] Loading server plugin squaremap v1.3.13
+[23:19:46] [Server thread/INFO]: [KapakWeaponWarning] Loading server plugin KapakWeaponWarning v1.0.0
+[23:19:46] [Server thread/INFO]: [KapakWeaponScare] Loading server plugin KapakWeaponScare v1.0.0
+[23:19:46] [Server thread/INFO]: [ViaRewind] Loading server plugin ViaRewind v4.1.1
+[23:19:46] [Server thread/INFO]: [MejiAdvancedV8] Loading server plugin MejiAdvancedV8 v1.6.1
+[23:19:46] [Server thread/INFO]: [KapakWeaponAuraPulseFixed] Loading server plugin KapakWeaponAuraPulseFixed v1.2.0
+[23:19:46] [Server thread/INFO]: [KapakWeaponReachV2] Loading server plugin KapakWeaponReachV2 v2.0.0
+[23:19:46] [Server thread/INFO]: [MejiCamera] Loading server plugin MejiCamera v1.0.0
+[23:19:46] [Server thread/INFO]: [MejiAfk] Loading server plugin MejiAfk v1.0.0
+[23:19:46] [Server thread/INFO]: [MejiClaimsV3] Loading server plugin MejiClaimsV3 v1.2.0
+[23:19:46] [Server thread/INFO]: [MejiAdvancedV7] Loading server plugin MejiAdvancedV7 v1.6.0
+[23:19:46] [Server thread/INFO]: [FLY] Loading server plugin Fly v1.0.0
+[23:19:46] [Server thread/INFO]: [MejiAdvancedV6] Loading server plugin MejiAdvancedV6 v1.5.0
+[23:19:46] [Server thread/INFO]: [MejiTopBarV2] Loading server plugin MejiTopBarV2 v1.1.0
+[23:19:46] [Server thread/INFO]: [DynamicLights] Loading server plugin DynamicLights v0.1.1
+[23:19:46] [Server thread/INFO]: [KapakWeaponV3] Loading server plugin KapakWeaponV3 v3.0.0
+[23:19:46] [Server thread/INFO]: [BetterKeepInventory] Loading server plugin BetterKeepInventory v2.1.1
+[23:19:46] [Server thread/INFO]: [SimpleTpa] Loading server plugin SimpleTpa v8.0
+[23:19:46] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[23:19:46] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.12.3
+[23:19:48] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 26.1.2.
+[23:19:48] [Server thread/INFO]: [SkinsRestorer] Floodgate skin listener registered
+[23:19:48] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[23:19:48] [Server thread/INFO]: [squaremap] Enabling squaremap v1.3.13
+[23:19:48] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[23:19:48] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +===================+
+[23:19:48] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer   |
+[23:19:48] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |-------------------|
+[23:19:48] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode  |
+[23:19:48] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +===================+
+[23:19:48] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[23:19:48] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.12.3
+[23:19:48] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 03cc9fd
+[23:19:48] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[23:19:48] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[23:19:48] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[23:19:48] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer or receive priority support? Become a supporter: https://skinsrestorer.net/pricing
+[23:19:50] [Server thread/INFO]: [io.undertow] starting server: Undertow - 2.3.24.Final
+[23:19:50] [Server thread/INFO]: [org.xnio] XNIO version 3.8.16.Final
+[23:19:50] [Server thread/INFO]: [org.xnio.nio] XNIO NIO Implementation Version 3.8.16.Final
+[23:19:50] [Server thread/INFO]: [org.jboss.threads] JBoss Threads version 3.7.0.Final
+[23:19:50] [Server thread/INFO]: [squaremap] Internal webserver running on 0.0.0.0:8080
+[23:19:50] [Server thread/INFO]: [ViaRewind] Enabling ViaRewind v4.1.1
+[23:19:50] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[23:19:50] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[23:19:50] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[23:19:50] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[23:19:50] [Server thread/INFO]: Preparing level "world"
+[23:19:50] [Server thread/INFO]: Loading 0 persistent chunks for level 'minecraft:overworld'...
+[23:19:50] [Server thread/INFO]: Preparing spawn area: 100%
+[23:19:50] [Server thread/INFO]: Prepared spawn area in 2 ms
+[23:19:50] [Server thread/INFO]: Loading 0 persistent chunks for level 'minecraft:the_nether'...
+[23:19:50] [Server thread/INFO]: Prepared spawn area in 2 ms
+[23:19:50] [Server thread/INFO]: Loading 0 persistent chunks for level 'minecraft:the_end'...
+[23:19:50] [Server thread/INFO]: Prepared spawn area in 0 ms
+[23:19:51] [Server thread/INFO]: Done preparing level "world" (0.687s)
+[23:19:51] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.9.1
+[23:19:51] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 26.1-26.1.2 (775)
+[23:19:51] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.5-SNAPSHOT (b132-5a72b6a)
+[23:19:51] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v5.9.1
+[23:19:51] [Server thread/INFO]: [GSit] Enabling GSit v3.4.2
+[23:19:51] [Server thread/INFO]: [GSit] The plugin was successfully enabled.
+[23:19:51] [Server thread/INFO]: [MejiPvpDuelV2] Enabling MejiPvpDuelV2 v1.1.0
+[23:19:51] [Folia Async Scheduler Thread #2/INFO]: [GSit] New version available: 3.5.0! Current version: 3.4.2! Download the latest version: https://www.spigotmc.org/resources/GSit.62325
+[23:19:51] [Server thread/INFO]: Loading 0 persistent chunks for level 'minecraft:flat'...
+[23:19:51] [Server thread/INFO]: Preparing spawn area: 100%
+[23:19:51] [Server thread/INFO]: Prepared spawn area in 1 ms
+[23:19:51] [Server thread/INFO]: [MejiPvpDuelV2] MejiPvpDuel enabled: /pvp <player> and /pvpaccept active.
+[23:19:51] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.10.1-SNAPSHOT
+[23:19:53] [Server thread/INFO]: [SetHome] Enabling SetHome v6.2
+[23:19:53] [Server thread/INFO]: [KapakWeaponOverpower] Enabling KapakWeaponOverpower v1.0.0
+[23:19:53] [Server thread/INFO]: [KapakWeaponOverpower] KapakWeaponOverpower enabled: extreme knockback, lightning, heal, speed, and kill notices active.
+[23:19:53] [Server thread/INFO]: [KapakWeaponWarning] Enabling KapakWeaponWarning v1.0.0
+[23:19:53] [Server thread/INFO]: [KapakWeaponWarning] KapakWeaponWarning enabled: nearby warning active.
+[23:19:53] [Server thread/INFO]: [KapakWeaponScare] Enabling KapakWeaponScare v1.0.0
+[23:19:53] [Server thread/INFO]: [KapakWeaponScare] KapakWeaponScare enabled: horror effects active.
+[23:19:53] [Server thread/INFO]: [MejiAdvancedV8] Enabling MejiAdvancedV8 v1.6.1
+[23:19:53] [Server thread/INFO]: [MejiAdvancedV8] MejiAdvanced V8 enabled: Bedrock-stable scoreboard, nametags, join/death/kill effects active.
+[23:19:53] [Server thread/INFO]: [KapakWeaponAuraPulseFixed] Enabling KapakWeaponAuraPulseFixed v1.2.0
+[23:19:53] [Server thread/INFO]: [KapakWeaponAuraPulseFixed] KapakWeaponAuraPulse enabled: red sky, harmless lightning, and blue fire pulse for 3 seconds.
+[23:19:53] [Server thread/INFO]: [KapakWeaponReachV2] Enabling KapakWeaponReachV2 v2.0.0
+[23:19:53] [Server thread/INFO]: [KapakWeaponReachV2] KapakWeaponReach enabled: hunger refill, glint, and 96-block reach active.
+[23:19:53] [Server thread/INFO]: [MejiCamera] Enabling MejiCamera v1.0.0
+[23:19:53] [Server thread/INFO]: [MejiCamera] MejiCamera enabled: /camera on and /camera off are ready.
+[23:19:53] [Server thread/INFO]: [MejiAfk] Enabling MejiAfk v1.0.0
+[23:19:53] [Server thread/INFO]: [MejiAfk] MejiAfk enabled: /afk on and /afk off are ready.
+[23:19:53] [Server thread/INFO]: [MejiClaimsV3] Enabling MejiClaimsV3 v1.2.0
+[23:19:53] [Server thread/INFO]: [MejiClaimsV3] MejiClaims enabled: golden shovel claim protection active.
+[23:19:53] [Server thread/INFO]: [MejiAdvancedV7] Enabling MejiAdvancedV7 v1.6.0
+[23:19:53] [Server thread/INFO]: [MejiAdvancedV7] MejiAdvanced V7 enabled: Bedrock-stable scoreboard, nametags, join/death/kill effects active.
+[23:19:53] [Server thread/INFO]: [FLY] Enabling Fly v1.0.0
+[23:19:53] [Server thread/INFO]: [FLY] Thank you for using flight!
+[23:19:53] [Server thread/INFO]: [MejiAdvancedV6] Enabling MejiAdvancedV6 v1.5.0
+[23:19:53] [Server thread/INFO]: [MejiAdvancedV6] MejiAdvanced enabled: scoreboard, nametags, join/death/kill effects active.
+[23:19:53] [Server thread/INFO]: [MejiTopBarV2] Enabling MejiTopBarV2 v1.1.0
+[23:19:53] [Server thread/INFO]: [MejiTopBarV2] MejiTopBar enabled: animated top bossbar active.
+[23:19:53] [Server thread/INFO]: [DynamicLights] Enabling DynamicLights v0.1.1
+[23:19:53] [Server thread/INFO]: [KapakWeaponV3] Enabling KapakWeaponV3 v3.0.0
+[23:19:53] [Server thread/INFO]: [KapakWeaponV3] KapakWeaponV2 enabled. Use /get kapak or /get pedang.
+[23:19:53] [Server thread/INFO]: [BetterKeepInventory] Enabling BetterKeepInventory v2.1.1
+[23:19:53] [Server thread/INFO]: [BetterKeepInventory] Loading config...
+[23:19:53] [Server thread/INFO]: [BetterKeepInventory] Loaded config
+[23:19:53] [Server thread/INFO]: [BetterKeepInventory] Registering commands and events...
+[23:19:53] [Server thread/INFO]: [BetterKeepInventory] Registered commands and events
+[23:19:53] [Server thread/INFO]: [BetterKeepInventory] Checking for BetterReload...
+[23:19:53] [Server thread/INFO]: [BetterKeepInventory] BetterReload was not found so support for it will not be enabled
+[23:19:53] [Server thread/INFO]: [SimpleTpa] Enabling SimpleTpa v8.0
+[23:19:53] [Server thread/INFO]: [SimpleTpa] If you need support contact me at https://discord.gg/SZUkza9
+[23:19:53] [Server thread/INFO]: [SimpleTpa] Simple Tpa has been enabled on version 8.0
+[23:19:53] [Server thread/INFO]: Enabled metrics. You may opt-out by changing plugins/bStats/config.yml
+[23:19:53] [Server thread/INFO]: [spark] Starting background profiler...
+[23:19:54] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[23:19:54] [Server thread/INFO]: [Geyser-Spigot] 
+[23:19:54] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.10.1-b1168 (git-master-69dc2cf)
+[23:19:54] [Server thread/INFO]: [Geyser-Spigot] 
+[23:19:54] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[23:19:58] [Server thread/WARN]: [Geyser-Spigot] The resource pack PrizmaVisuals_1.3.10.mcpack has a file in it that meets or exceeds 80 characters in its path (subpacks/1/textures/blocks/deepslate/reinforced_deepslate_bottom.texture_set.json, 81 characters long). This will cause problems on some Bedrock platforms. Please rename it to be shorter, or reduce the amount of folders needed to get to the file.
+[23:19:58] [Server thread/WARN]: [Geyser-Spigot] The resource pack PrizmaVisuals_1.3.10.mcpack has a file in it that meets or exceeds 80 characters in its path (subpacks/1/textures/blocks/huge_fungus/stripped_crimson_stem_side.texture_set.json, 82 characters long). This will cause problems on some Bedrock platforms. Please rename it to be shorter, or reduce the amount of folders needed to get to the file.
+[23:19:58] [Server thread/WARN]: [Geyser-Spigot] The resource pack PrizmaVisuals_1.3.10.mcpack has a file in it that meets or exceeds 80 characters in its path (subpacks/1/textures/blocks/huge_fungus/stripped_crimson_stem_top.texture_set.json, 81 characters long). This will cause problems on some Bedrock platforms. Please rename it to be shorter, or reduce the amount of folders needed to get to the file.
+[23:19:58] [Server thread/WARN]: [Geyser-Spigot] The resource pack PrizmaVisuals_1.3.10.mcpack has a file in it that meets or exceeds 80 characters in its path (subpacks/1/textures/blocks/huge_fungus/stripped_warped_stem_side.texture_set.json, 81 characters long). This will cause problems on some Bedrock platforms. Please rename it to be shorter, or reduce the amount of folders needed to get to the file.
+[23:19:58] [Server thread/WARN]: [Geyser-Spigot] The resource pack PrizmaVisuals_1.3.10.mcpack has a file in it that meets or exceeds 80 characters in its path (subpacks/1/textures/blocks/huge_fungus/stripped_warped_stem_top.texture_set.json, 80 characters long). This will cause problems on some Bedrock platforms. Please rename it to be shorter, or reduce the amount of folders needed to get to the file.
+[23:19:58] [Server thread/WARN]: [Geyser-Spigot] The resource pack PrizmaVisuals_1.3.10.mcpack has a file in it that meets or exceeds 80 characters in its path (subpacks/1/textures/blocks/repeating_command_block_front_mipmap.texture_set.json, 80 characters long). This will cause problems on some Bedrock platforms. Please rename it to be shorter, or reduce the amount of folders needed to get to the file.
+[23:19:58] [Server thread/WARN]: [Geyser-Spigot] The resource pack PrizmaVisuals_1.3.10.mcpack has a file in it that meets or exceeds 80 characters in its path (subpacks/2/textures/blocks/deepslate/reinforced_deepslate_bottom.texture_set.json, 81 characters long). This will cause problems on some Bedrock platforms. Please rename it to be shorter, or reduce the amount of folders needed to get to the file.
+[23:19:58] [Server thread/WARN]: [Geyser-Spigot] The resource pack PrizmaVisuals_1.3.10.mcpack has a file in it that meets or exceeds 80 characters in its path (subpacks/2/textures/blocks/huge_fungus/stripped_crimson_stem_side.texture_set.json, 82 characters long). This will cause problems on some Bedrock platforms. Please rename it to be shorter, or reduce the amount of folders needed to get to the file.
+[23:19:58] [Server thread/WARN]: [Geyser-Spigot] The resource pack PrizmaVisuals_1.3.10.mcpack has a file in it that meets or exceeds 80 characters in its path (subpacks/2/textures/blocks/huge_fungus/stripped_crimson_stem_top.texture_set.json, 81 characters long). This will cause problems on some Bedrock platforms. Please rename it to be shorter, or reduce the amount of folders needed to get to the file.
+[23:19:58] [Server thread/WARN]: [Geyser-Spigot] The resource pack PrizmaVisuals_1.3.10.mcpack has a file in it that meets or exceeds 80 characters in its path (subpacks/2/textures/blocks/huge_fungus/stripped_warped_stem_side.texture_set.json, 81 characters long). This will cause problems on some Bedrock platforms. Please rename it to be shorter, or reduce the amount of folders needed to get to the file.
+[23:19:58] [Server thread/WARN]: [Geyser-Spigot] The resource pack PrizmaVisuals_1.3.10.mcpack has a file in it that meets or exceeds 80 characters in its path (subpacks/2/textures/blocks/huge_fungus/stripped_warped_stem_top.texture_set.json, 80 characters long). This will cause problems on some Bedrock platforms. Please rename it to be shorter, or reduce the amount of folders needed to get to the file.
+[23:19:58] [Server thread/WARN]: [Geyser-Spigot] The resource pack PrizmaVisuals_1.3.10.mcpack has a file in it that meets or exceeds 80 characters in its path (subpacks/2/textures/blocks/repeating_command_block_front_mipmap.texture_set.json, 80 characters long). This will cause problems on some Bedrock platforms. Please rename it to be shorter, or reduce the amount of folders needed to get to the file.
+[23:19:58] [Server thread/WARN]: [Geyser-Spigot] The resource pack Utility-Dark-V1.0.6.mcpack has a file in it that meets or exceeds 80 characters in its path (subpacks/no particles and no animations/particles/trial_spawner_detection_ominous.particle.json, 95 characters long). This will cause problems on some Bedrock platforms. Please rename it to be shorter, or reduce the amount of folders needed to get to the file.
+[23:19:58] [Server thread/WARN]: [Geyser-Spigot] The resource pack Utility-Dark-V1.0.6.mcpack has a file in it that meets or exceeds 80 characters in its path (subpacks/no particles and no animations/particles/spore_blossom_ambient_block_actor.json, 88 characters long). This will cause problems on some Bedrock platforms. Please rename it to be shorter, or reduce the amount of folders needed to get to the file.
+[23:19:58] [Server thread/WARN]: [Geyser-Spigot] The resource pack Utility-Dark-V1.0.6.mcpack has a file in it that meets or exceeds 80 characters in its path (subpacks/no particles and no animations/particles/smash_ground_particle_center.json, 83 characters long). This will cause problems on some Bedrock platforms. Please rename it to be shorter, or reduce the amount of folders needed to get to the file.
+[23:19:58] [Server thread/WARN]: [Geyser-Spigot] The resource pack Utility-Dark-V1.0.6.mcpack has a file in it that meets or exceeds 80 characters in its path (subpacks/no particles and no animations/particles/sculk_sensor_redstone_particle.json, 85 characters long). This will cause problems on some Bedrock platforms. Please rename it to be shorter, or reduce the amount of folders needed to get to the file.
+[23:19:58] [Server thread/WARN]: [Geyser-Spigot] The resource pack Utility-Dark-V1.0.6.mcpack has a file in it that meets or exceeds 80 characters in its path (subpacks/no particles and no animations/particles/ominous_spawning_particle.json, 80 characters long). This will cause problems on some Bedrock platforms. Please rename it to be shorter, or reduce the amount of folders needed to get to the file.
+[23:19:58] [Server thread/WARN]: [Geyser-Spigot] The resource pack Utility-Dark-V1.0.6.mcpack has a file in it that meets or exceeds 80 characters in its path (subpacks/no particles and no animations/particles/falling_dust_concrete_powder.json, 83 characters long). This will cause problems on some Bedrock platforms. Please rename it to be shorter, or reduce the amount of folders needed to get to the file.
+[23:19:58] [Server thread/WARN]: [Geyser-Spigot] The resource pack Utility-Dark-V1.0.6.mcpack has a file in it that meets or exceeds 80 characters in its path (subpacks/no particles and no animations/particles/explosion_eyeofender_death.json, 81 characters long). This will cause problems on some Bedrock platforms. Please rename it to be shorter, or reduce the amount of folders needed to get to the file.
+[23:19:58] [Server thread/WARN]: [Geyser-Spigot] The resource pack Utility-Dark-V1.0.6.mcpack has a file in it that meets or exceeds 80 characters in its path (subpacks/no particles and no animations/particles/evaporation_elephant_toothpaste.json, 86 characters long). This will cause problems on some Bedrock platforms. Please rename it to be shorter, or reduce the amount of folders needed to get to the file.
+[23:19:58] [Server thread/WARN]: [Geyser-Spigot] The resource pack Utility-Dark-V1.0.6.mcpack has a file in it that meets or exceeds 80 characters in its path (subpacks/no particles and no animations/particles/cherry_leaves_particle.particle.json, 86 characters long). This will cause problems on some Bedrock platforms. Please rename it to be shorter, or reduce the amount of folders needed to get to the file.
+[23:19:58] [Server thread/WARN]: [Geyser-Spigot] The resource pack Utility-Dark-V1.0.6.mcpack has a file in it that meets or exceeds 80 characters in its path (subpacks/no particles and no animations/particles/pale_oak_leaves_particle.particle.json, 88 characters long). This will cause problems on some Bedrock platforms. Please rename it to be shorter, or reduce the amount of folders needed to get to the file.
+[23:19:58] [Server thread/WARN]: [Geyser-Spigot] The resource pack Utility-Dark-V1.0.6.mcpack has a file in it that meets or exceeds 80 characters in its path (subpacks/no particles and no animations/particles/biome_tinted_leaves_particle.json, 83 characters long). This will cause problems on some Bedrock platforms. Please rename it to be shorter, or reduce the amount of folders needed to get to the file.
+[23:19:58] [Server thread/WARN]: [Geyser-Spigot] The resource pack Utility-Dark-V1.0.6.mcpack has a file in it that meets or exceeds 80 characters in its path (subpacks/no particles and no animations/particles/trial_spawner_detection.particle.json, 87 characters long). This will cause problems on some Bedrock platforms. Please rename it to be shorter, or reduce the amount of folders needed to get to the file.
+[23:19:58] [Server thread/WARN]: [Geyser-Spigot] The resource pack Utility-Dark-V1.0.6.mcpack has a file in it that meets or exceeds 80 characters in its path (subpacks/no particles and no animations/particles/enchanting_table_particle.json, 80 characters long). This will cause problems on some Bedrock platforms. Please rename it to be shorter, or reduce the amount of folders needed to get to the file.
+[23:19:58] [Server thread/WARN]: [Geyser-Spigot] The resource pack Utility-Dark-V1.0.6.mcpack has a file in it that meets or exceeds 80 characters in its path (subpacks/no particles and no animations/particles/enchanting_table_particle.particle.json, 89 characters long). This will cause problems on some Bedrock platforms. Please rename it to be shorter, or reduce the amount of folders needed to get to the file.
+[23:19:58] [GeyserServer-3-1/INFO]: [Geyser-Spigot] Started Geyser on UDP port 19132
+[23:19:59] [Server thread/INFO]: [Geyser-Spigot] Done (4.151s)! Run /geyser help for help!
+[23:19:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[23:19:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[23:19:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[23:19:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:flat
+[23:19:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:19:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:19:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:19:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (flat): All chunks are saved
+[23:19:59] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[23:19:59] [Server thread/INFO]: Running delayed init tasks
+[23:19:59] [Server thread/INFO]: Done (26.865s)! For help, type "help"
+[23:19:59] [ForkJoinPool.commonPool-worker-2/INFO]: [squaremap] Fetching version information...
+[23:19:59] [Craft Scheduler Thread - 2 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
+[23:19:59] [Paper Async Task Handler Thread - 1/INFO]: *** Currently you are 1 build(s) behind ***
+[23:19:59] [Paper Async Task Handler Thread - 1/INFO]: *** It is highly recommended to download the latest build from https://papermc.io/downloads/paper ***
