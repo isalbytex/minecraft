@@ -1,19 +1,43 @@
 {
   "stats": {
+    "minecraft:dropped": {
+      "minecraft:netherite_pickaxe": 1
+    },
+    "minecraft:picked_up": {
+      "minecraft:leaf_litter": 1,
+      "minecraft:netherite_pickaxe": 1,
+      "minecraft:rotten_flesh": 2
+    },
+    "minecraft:used": {
+      "minecraft:netherite_sword": 6
+    },
+    "minecraft:mined": {
+      "minecraft:leaf_litter": 1
+    },
     "minecraft:custom": {
-      "minecraft:time_since_rest": 911,
-      "minecraft:walk_one_cm": 3553,
-      "minecraft:damage_taken": 120,
-      "minecraft:play_time": 911,
-      "minecraft:damage_dealt": 164,
-      "minecraft:jump": 31,
-      "minecraft:time_since_death": 911,
-      "minecraft:sprint_one_cm": 1312,
+      "minecraft:time_since_rest": 12912,
+      "minecraft:walk_one_cm": 15938,
+      "minecraft:mob_kills": 8,
+      "minecraft:damage_taken": 420,
+      "minecraft:damage_dealt": 678,
+      "minecraft:play_time": 12912,
+      "minecraft:jump": 91,
+      "minecraft:time_since_death": 12912,
+      "minecraft:drop": 1,
+      "minecraft:sprint_one_cm": 13774,
+      "minecraft:open_chest": 15,
       "minecraft:interact_with_smithing_table": 1,
-      "minecraft:fall_one_cm": 242,
-      "minecraft:total_world_time": 911,
-      "minecraft:fly_one_cm": 2906,
+      "minecraft:fall_one_cm": 899,
+      "minecraft:total_world_time": 12912,
+      "minecraft:fly_one_cm": 17314,
+      "minecraft:crouch_one_cm": 499,
+      "minecraft:sneak_time": 272,
       "minecraft:interact_with_grindstone": 1
+    },
+    "minecraft:killed": {
+      "minecraft:zombie": 6,
+      "minecraft:creeper": 1,
+      "minecraft:spider": 1
     }
   },
   "DataVersion": 4790

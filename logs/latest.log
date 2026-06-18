@@ -213,3 +213,35 @@
 [06:08:56] [Async Chat Thread - #0/INFO]: [Not Secure] [Meji] Survivor | tanpoint » TYPE /skins
 [06:09:21] [Server thread/INFO]: tanpoint issued server command: /skin set https://tlauncher.org/catalog/skins%255Cboys/download/skin_20160418132128188528.png
 [06:09:32] [Server thread/INFO]: EagleShadow issued server command: /get pedang
+[06:10:15] [Server thread/INFO]: EagleShadow issued server command: /skins
+[06:10:39] [Server thread/INFO]: EagleShadow issued server command: / skins
+[06:10:42] [Server thread/INFO]: EagleShadow issued server command: /skins
+[06:10:53] [Server thread/INFO]: [MEJI] tanpoint died: lost close combat / kalah jarak dekat
+[06:11:09] [Server thread/INFO]: EagleShadow issued server command: /skin url
+[06:11:34] [Server thread/INFO]: tanpoint issued server command: /skin url "https://minesk.in/4c37f25f00ed4465ba3eea577b7292c2" classic
+[06:12:07] [Server thread/INFO]: EagleShadow issued server command: /skin url https://minesk.in/4c37f25f00ed4465ba3eea577b7292c2
+[06:12:22] [Server thread/INFO]: EagleShadow issued server command: /pvp off
+[06:12:25] [Server thread/INFO]: tanpoint issued server command: /skin url "https://minesk.in/b79b7a61cec842139545eb092d58e90d" slim
+[06:13:08] [Server thread/INFO]: tanpoint issued server command: /skin url "https://minesk.in/6b11c8e061d24e288d2a869412ca5b8a" classic
+[06:13:24] [GeyserServerChild-4-1/INFO]: [Geyser-Spigot] Player connected with username ElectedRun19 (1001)
+[06:13:24] [localSession-7-2/INFO]: [Geyser-Spigot] ElectedRun19 (logged in as: ElectedRun19) has connected to the Java server
+[06:13:25] [Server thread/INFO]: [floodgate] Floodgate player logged in as .ElectedRun19 joined (UUID: 00000000-0000-0000-0009-01f921b76c43)
+[06:13:25] [Server thread/INFO]: [+] .ElectedRun19 entered Meji with style. | Selamat datang, jangan jadi Steve.
+[06:13:25] [Server thread/INFO]: .ElectedRun19[/127.103.212.23:0] logged in with entity id 1603 at ([minecraft:overworld]-5.8228774, 68.0, 20.364666)
+[06:13:56] [Server thread/INFO]: .ElectedRun19 issued server command: /skins
+[06:14:22] [Server thread/INFO]: [MEJI] .ElectedRun19 died: lost close combat / kalah jarak dekat
+[06:14:46] [Server thread/INFO]: tanpoint issued server command: /skin url "skinsrestorer-axolotl://fu1S0eQlzqSbgErb+TSnfA+/4twt45TiZt8qFzomD+itYN7h9EG9Fib/nncTgQ5ASW4bNmpfAD/cIJ/F1oXOKQ==" classic
+[06:14:53] [Server thread/INFO]: .ElectedRun19 issued server command: /skins
+[06:15:03] [Server thread/INFO]: .ElectedRun19 issued server command: /skins
+[06:18:21] [Server thread/INFO]: Unknown item 'minecraft:enchanted_table'
+... tanpoint enchanted_table<--[HERE]
+[06:18:31] [Server thread/INFO]: Unknown item 'minecraft:enchanted_table'
+... tanpoint enchanted_table 1<--[HERE]
+[06:19:50] [Server thread/INFO]: Gave 1 [Enchanting Table] to tanpoint
+[06:19:56] [GeyserServerChild-4-1/INFO]: [Geyser-Spigot] ElectedRun19 has disconnected from the Java server because of Bedrock client timed out
+[06:19:56] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .ElectedRun19 disconnected
+[06:19:56] [Server thread/INFO]: .ElectedRun19 lost connection: Disconnected
+[06:19:56] [Server thread/INFO]: [-] .ElectedRun19 left Meji. Progress saved, pride optional.
+[06:20:08] [Server thread/INFO]: Book cannot support that enchantment
+[06:21:13] [Server thread/INFO]: Malformed 'minecraft:stored_enchantments' component: 'Not a number; Failed to get element minecraft:levels missed input: {levels:{mending:1}}'
+...hantments={levels:{mending:1}}] 1<--[HERE]
