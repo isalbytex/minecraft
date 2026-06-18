@@ -252,3 +252,22 @@
 [05:43:08] [Server thread/INFO]: [MEJI] .Zakk9857 died: gravity won, again / gravitasi menang lagi
 [05:43:17] [Server thread/INFO]: .Zakk9857 issued server command: /back
 [05:47:57] [Server thread/INFO]: [MEJI] .Zakk9857 died: swam in spicy water / berenang di lava
+[05:51:34] [Server thread/INFO]: .Zakk9857 has made the advancement [Stay Hydrated!]
+[05:54:47] [Server thread/INFO]: [MEJI] .Zakk9857 died: skill issue detected / kemampuan dipertanyakan
+[05:55:45] [Server thread/INFO]: [MEJI] .Zakk9857 died: skill issue detected / kemampuan dipertanyakan
+[05:57:16] [Server thread/INFO]: tanpoint lost connection: Disconnected
+[05:57:16] [Server thread/INFO]: [-] tanpoint left Meji. Progress saved, pride optional.
+[05:57:20] [GeyserServerChild-4-1/INFO]: [Geyser-Spigot] Zakk9857 has disconnected from the Java server because of Bedrock client timed out
+[05:57:20] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as .Zakk9857 disconnected
+[05:57:20] [Server thread/INFO]: .Zakk9857 lost connection: Disconnected
+[05:57:20] [Server thread/INFO]: [-] .Zakk9857 left Meji. Progress saved, pride optional.
+[05:57:59] [User Authenticator #5/INFO]: UUID of player tanpoint is 5700343a-c805-3fa7-add9-b279bffb48dd
+[05:57:59] [Server thread/INFO]: tanpoint (/127.203.202.236:35235) lost connection: Disconnected
+[05:58:10] [User Authenticator #6/INFO]: UUID of player tanpoint is 5700343a-c805-3fa7-add9-b279bffb48dd
+[05:58:15] [Server thread/INFO]: [+] tanpoint entered Meji with style. | Selamat datang, jangan jadi Steve.
+[05:58:15] [Server thread/INFO]: tanpoint[/127.203.202.236:33509] logged in with entity id 17030 at ([minecraft:overworld]-10.251865510424016, 68.5, 31.41870577541596)
+[05:59:17] [Server thread/INFO]: tanpoint lost connection: Disconnected
+[05:59:17] [Server thread/INFO]: [-] tanpoint left Meji. Progress saved, pride optional.
+[05:59:22] [User Authenticator #7/INFO]: UUID of player tanpoint is 5700343a-c805-3fa7-add9-b279bffb48dd
+[05:59:22] [Server thread/INFO]: [+] tanpoint entered Meji with style. | Selamat datang, jangan jadi Steve.
+[05:59:22] [Server thread/INFO]: tanpoint[/127.203.202.236:51831] logged in with entity id 17860 at ([minecraft:overworld]-10.251865510424016, 69.67675927506424, 31.41870577541596)
