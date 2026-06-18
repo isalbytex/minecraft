@@ -326,3 +326,9 @@
 [06:50:09] [Server thread/INFO]: [+] EagleShadow entered Meji with style. | Selamat datang, jangan jadi Steve.
 [06:50:09] [Server thread/INFO]: EagleShadow[/127.103.212.23:47297] logged in with entity id 9054 at ([minecraft:overworld]109.90874660553081, 63.0, 270.77726096903297)
 [06:50:29] [Server thread/INFO]: EagleShadow issued server command: /home base
+[06:53:41] [User Authenticator #8/INFO]: UUID of player tanpoint is 5700343a-c805-3fa7-add9-b279bffb48dd
+[06:53:42] [Server thread/INFO]: [+] tanpoint entered Meji with style. | Selamat datang, jangan jadi Steve.
+[06:53:42] [Server thread/INFO]: tanpoint[/127.77.197.72:40711] logged in with entity id 10454 at ([minecraft:overworld]-1.8291857941457164, 69.0, 6.2334689949497575)
+[06:54:38] [Server thread/INFO]: tanpoint issued server command: /tpa EagleShadow
+[06:54:59] [Server thread/INFO]: EagleShadow issued server command: /tpaccept
+[07:00:56] [Server thread/INFO]: EagleShadow has made the advancement [Surge Protector]

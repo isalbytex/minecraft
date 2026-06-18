@@ -2,13 +2,15 @@
   "stats": {
     "minecraft:dropped": {
       "minecraft:netherite_pickaxe": 3,
+      "minecraft:gunpowder": 1,
       "minecraft:enchanted_book": 1,
-      "minecraft:diamond_pickaxe": 3
+      "minecraft:diamond_pickaxe": 3,
+      "minecraft:string": 2
     },
     "minecraft:picked_up": {
       "minecraft:quartz": 128,
-      "minecraft:enchanted_book": 1,
       "minecraft:porkchop": 3,
+      "minecraft:enchanted_book": 1,
       "minecraft:netherrack": 52,
       "minecraft:cobblestone": 2,
       "minecraft:white_wool": 1,
@@ -20,7 +22,8 @@
       "minecraft:coal": 37,
       "minecraft:string": 2,
       "minecraft:netherite_pickaxe": 4,
-      "minecraft:gunpowder": 1
+      "minecraft:gunpowder": 1,
+      "minecraft:green_shulker_box": 1
     },
     "minecraft:killed_by": {
       "minecraft:piglin": 1
@@ -29,8 +32,9 @@
       "minecraft:nether_quartz_ore": 21,
       "minecraft:diamond_pickaxe": 19,
       "minecraft:netherite_sword": 14,
-      "minecraft:netherite_pickaxe": 164,
-      "minecraft:shulker_box": 1
+      "minecraft:netherite_pickaxe": 165,
+      "minecraft:shulker_box": 1,
+      "minecraft:green_shulker_box": 1
     },
     "minecraft:mined": {
       "minecraft:short_grass": 1,
@@ -38,38 +42,39 @@
       "minecraft:nether_quartz_ore": 71,
       "minecraft:leaf_litter": 1,
       "minecraft:netherrack": 70,
-      "minecraft:large_fern": 4,
       "minecraft:coal_ore": 19,
+      "minecraft:large_fern": 4,
+      "minecraft:green_shulker_box": 1,
       "minecraft:shulker_box": 1,
       "minecraft:stone": 2
     },
     "minecraft:custom": {
-      "minecraft:time_since_rest": 13719,
+      "minecraft:time_since_rest": 25719,
       "minecraft:leave_game": 1,
       "minecraft:mob_kills": 21,
-      "minecraft:damage_taken": 960,
-      "minecraft:open_shulker_box": 2,
-      "minecraft:time_since_death": 13690,
+      "minecraft:damage_taken": 1050,
+      "minecraft:open_shulker_box": 5,
+      "minecraft:time_since_death": 25690,
       "minecraft:interact_with_smithing_table": 2,
-      "minecraft:total_world_time": 46641,
+      "minecraft:total_world_time": 58641,
       "minecraft:swim_one_cm": 4362,
       "minecraft:crouch_one_cm": 856,
       "minecraft:deaths": 1,
       "minecraft:interact_with_crafting_table": 5,
-      "minecraft:walk_one_cm": 76636,
+      "minecraft:walk_one_cm": 84849,
       "minecraft:walk_under_water_one_cm": 485,
-      "minecraft:play_time": 46641,
+      "minecraft:play_time": 58641,
       "minecraft:damage_dealt": 1218,
-      "minecraft:jump": 505,
-      "minecraft:drop": 7,
-      "minecraft:open_barrel": 1,
-      "minecraft:sprint_one_cm": 98911,
-      "minecraft:open_chest": 47,
-      "minecraft:fall_one_cm": 13975,
-      "minecraft:fly_one_cm": 106195,
+      "minecraft:jump": 540,
+      "minecraft:drop": 9,
+      "minecraft:open_barrel": 3,
+      "minecraft:sprint_one_cm": 105412,
+      "minecraft:open_chest": 59,
+      "minecraft:fall_one_cm": 14188,
+      "minecraft:fly_one_cm": 114131,
       "minecraft:interact_with_anvil": 6,
       "minecraft:walk_on_water_one_cm": 886,
-      "minecraft:sneak_time": 477,
+      "minecraft:sneak_time": 480,
       "minecraft:interact_with_grindstone": 1
     },
     "minecraft:crafted": {
