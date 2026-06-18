@@ -2,8 +2,8 @@
 set -euo pipefail
 
 interval_seconds="${1:-600}"
-pid_file="/tmp/minecraft-auto-backup.pid"
-log_file="${BACKUP_LOG:-/tmp/minecraft-auto-backup.log}"
+pid_file="${BACKUP_PID:-/workspaces/srv/minecraft-auto-backup.pid}"
+log_file="${BACKUP_LOG:-/workspaces/srv/minecraft-auto-backup.log}"
 
 if [[ -f "$pid_file" ]]; then
   old_pid="$(cat "$pid_file")"

@@ -2,7 +2,7 @@
 set -euo pipefail
 
 interval_seconds="${1:-600}"
-log_file="${BACKUP_LOG:-/tmp/minecraft-auto-backup.log}"
+log_file="${BACKUP_LOG:-/workspaces/srv/minecraft-auto-backup.log}"
 
 while true; do
   {
